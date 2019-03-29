@@ -82,7 +82,6 @@
             <div class="content">
                 <div class="title m-b-md">
                     Ultimate Cards
-                    <p class="text-warning">{{ Auth::user()->email }}</p>
                 </div>
 
                 <div class="links">
